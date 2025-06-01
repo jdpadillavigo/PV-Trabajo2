@@ -1,15 +1,14 @@
 title: Start
----
-Raton Mickey: ¡Hola, soy Raton Mickey! Antes de continuar, debes responder un acertijo.
-Raton Mickey: Escucha con atención...
-Raton Mickey: Tiene llaves pero no cerraduras, espacio pero no habitaciones.  
-Raton Mickey: Puedes entrar, pero no salir. ¿Qué es?
--> Un teclado.
-    Raton Mickey: ¡Felicidades! Aquí tienes la llave para el siguiente piso.
--> Una puerta mágica.
-    Raton Mickey: Hmm... no es correcto. Intenta de nuevo.
--> Un cofre.
-    Raton Mickey: No exactamente. ¡Piénsalo mejor!
--> Una trampa.
-    Raton Mickey: ¡Ay no! ¡Eso sería terrible! Pero no es la respuesta.
-===
+---  
+Raton Mickey: Hola, soy Raton Mickey! Antes de continuar, debes responder un acertijo.  
+Raton Mickey: Escucha con atencion...  
+Raton Mickey: Cuanto mas le quitas, mas grande se vuelve. Que es?  
+-> Un agujero.  
+    Raton Mickey: Exacto! Has acertado. Aqui tienes la llave para el siguiente piso.  
+-> Una sombra.  
+    Raton Mickey: No es correcto. Intenta de nuevo.  
+-> Un globo.  
+    Raton Mickey: Esa no es la respuesta. Sigue pensando!  
+-> Un tunel.  
+    Raton Mickey: Mmm... cerca, pero no del todo. Vuelve a intentarlo!  
+===  
